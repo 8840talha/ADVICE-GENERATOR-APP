@@ -1,4 +1,4 @@
-# Advice Manager
+# Advice Manager REACt
 #Api Used to fetch advices from https://api.adviceslip.com/advice .
 # Axios used to fetch data.
 #props passing used.
